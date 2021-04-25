@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Strawberry mousse cake",
+        "img": "assets/img/strawberry_mousse.jpg"
+    },
+    {
+        "name": "Chamomile tartlet",
+        "img": "assets/img/chamomile_tartlet.jpg"
+    },
+    {
+        "name": "Vigorous citrus",
+        "img":"assets/img/vigorous_citrus.jpg"
+    },
+    {
+        "name": "Tonka",
+        "img": "assets/img/tonka.jpg"
+    },
+    {
+        "name": "Mango passionfruit",
+        "img": "assets/img/mango_passionfruit.jpg"
+    },
+    {
+        "name": "Caramelized chocolate",
+        "img":"assets/img/caramelized_chocolate.jpg"
+    },
+    {
+        "name": "Pineapple pasionfruit",
+        "img": "assets/img/pineapple_passionfruit.jpg"
+    },
+    {
+        "name": "Cherry pictachio",
+        "img":"assets/img/cherry_pistachio.jpg"
+    },
+    {
+        "name": "Nut cake",
+        "img":"assets/img/nut_cake.jpg"
+    },
+    {
+        "name": "Chocolate orange",
+        "img": "assets/img/chokolate_orange.jpg"
+    },
+    {
+        "name": "Apricot and bergamot",
+        "img":"assets/img/apricot_bergamot.jpg"
+    },
+    {
+        "name": "Caramel cake",
+        "img":"assets/img/caramel_cake.jpg"
+    },
+    {
+        "name": "Raspberry caramel",
+        "img":"assets/img/raspberry_caramel.jpg"
+    },
+    {
+        "name": "Yoghurt blueberries",
+        "img":"assets/img/yoghurt_blueberries.jpg"
+    },
+    {
+        "name": "Mousse cheesecake",
+        "img":"assets/img/mousse_cheesecake.jpg"
+    },
+    {
+        "name": "Raspberry lime basil",
+        "img":"assets/img/raspberry_lime_basil.jpg"
+    },
+    {
+        "name": "Tartlets tangerine",
+        "img":"assets/img/tartlets_tangerine.jpg"
+    },
+    {
+        "name": "Raspberry mint",
+        "img":"assets/img/raspberry_mint.jpg"
+    },
+    {
+        "name": "Strawberry banana",
+        "img":"assets/img/strawberry_banana.jpg"
+    },
+    {
+        "name": "Red chocolate",
+        "img":"assets/img/red_chocolate.png"
+    }
+]    
